@@ -1,0 +1,6 @@
+[submodule "OA-LICalib"]
+	path = OA-LICalib
+	url = git@github.com:bharadwajakshay/OA-LICalib.git
+[submodule "lidar-ineratial-init"]
+	path = lidar-ineratial-init
+	url = git@github.com:bharadwajakshay/lidar-ineratial-init.git
